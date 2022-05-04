@@ -43,8 +43,7 @@ classification in social networks.
 
 {{{unit}}} 
 |Unit IV| Evolution   |9| 
-Evolution in Social Networks: Framework -- Tracing smoothly evolving
-communities; Models and Algorithms for Social Influence Analysis:
+Models and Algorithms for Social Influence Analysis:
 Influence related statistics -- Social similarity and influence --
 Influence maximization in viral marketing; Algorithms and Systems for
 Expert Location in Social Networks: Expert location without graph
@@ -64,23 +63,23 @@ protection
 
 ** Course Outcomes
 After the completion of this course, students will be able to:  
-- Understand the components of the social network(K2). 
-- Have working knowledge on the models and visualize the social network using tools(K3). 
-- Gain knowledge on mining of communities in the social network(K2). 
-- Understand the evolution of the social network(K2). 
-- Work on the applications in real time systems(K3). 
+- Explain the components of the social network(K2). 
+- Make use of the tools, to  visualize the social network(K3). 
+- Expalin the mining of communities in the social network(K2). 
+- Utilize the models and algorithms to find the experts and links of the social network(K3). 
+- Apply the social netwokring concepts in the various real time systems(K3). 
 
 
       
 ** References
 1. Peter Mika, ``Social Networks and the Semantic Web'', Springer, 1st
-   edition, 2007.
+   edition, 2007. (Unit 1 - Chapter 1,2,3, Unit 2 -Chapter 5)
 2. Borko Furht,``Handbook of Social Network Technologies and
-   Applications'', Springer, 1st edition, 2011
+   Applications'', Springer, 1st edition, 2011. ( Unit 2 - Chapter  27,28)
 3. Charu C. Aggarwal, ``Social Network Data Analytics'', Springer,
-   2014
+   2014. (Unit 3 - Chapter 3 & 4, Unit 4 - Chapter 7, 8,9)
 4. Przemyslaw Kazienko, Nitesh Chawla,``Applications of Social Media
-   and Social Network Analysis'', Springer,2015
+   and Social Network Analysis'', Springer,2015 (Unit 5)
 5. Giles, Mark Smith, John Yen, ``Advances in Social Network Mining
    and Analysis'', Springer, 2010.
 6. Guandong Xu , Yanchun Zhang and Lin Li, ``Web Mining and Social
