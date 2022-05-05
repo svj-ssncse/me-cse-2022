@@ -13,19 +13,17 @@
 ** Course Objectives
 - To have a basic knowledge of the concepts and techniques of machine learning.
 - To learn the working of various machine learning algorithms on different learning types.
-- To understand the importance of deep learning in the perspective of machine learning.
-- To have basic konowledge on different libraries of machine learning.
+- To understand the evolution and need of deep learning from machine learning.
+- To learn the basis of machine learning with python and H2O library.
 
 {{{unit}}}
 |Unit I |Introduction and Mathematical Foundation |8|
-Machine Learning: Definitions -- History -- Applications -- Advantages, Disadvantages & Challenges; 
-Types of machine learning -- Design of a learning system -- Perspectives and issues in machine learning; 
-Basic statitics: Averages -- Variance and Covariance -- Bias Variance tradeoff -- Curse of dimensionality; 
-Data into Probabilities: Naive Bayes Classifier; Testing ML algorithms.
+Machine Learning: History -- Applications; Types of machine learning -- Design of a learning system -- Perspectives and issues in machine learning; 
+Basic statitics: Variance and Covariance -- Bias Variance tradeoff -- Curse of dimensionality; Probabilities: Naive Bayes Classifier; Testing ML algorithms.
 
-\begin{comment}
+\begin {comment}
 Introduction topics and chapters 1 & 2
-\end{comment}
+\end {comment}
 
 {{{unit}}}
 |Unit II|Linear and Non-Linear Models OR Supervised Learning |10| 
