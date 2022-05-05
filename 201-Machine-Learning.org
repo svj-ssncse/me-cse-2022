@@ -33,7 +33,7 @@ Classification: Linear and Non-linear models -- Support Vector Machines –- Ker
 Learning with Trees: constructing Decision Tree using ID3 – Classification and regression trees (CART);
 Ensemble Methods -– Bagging -- Boosting -- Random Forest; Evaluation of Classification Algorithms.
 
-\#+begin_comment
+#+begin_comment
 Algorithms related to SL are in Unit2, Chapters 3, 8, 12 and 13
 #+end_comment
 
