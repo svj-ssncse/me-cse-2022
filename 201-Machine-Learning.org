@@ -80,16 +80,16 @@ On successful completion of this course, the student will be able to
 1. Stephen Marsland, ``Machine Learning – An Algorithmic
    Perspective'', Second Edition, Chapman and Hall/CRC Machine
    Learning and Pattern Recognition Series, 2015.
-2. Tom M Mitchell, ``Machine Learning'', First Edition, McGraw Hill
-   Education, 2013.
+2. Pasha Stetsenko, ''Machine Learning with Python and H2O'', Published by H2O.ai, Inc., 2017
 3. Ethem Alpaydin, ``Introduction to Machine Learning (Adaptive
    Computation and Machine Learning Series)'', Fourth Edition, MIT
    Press, 2020
-4. Jason Bell, ``Machine learning – Hands on for Developers and
-   Technical Professionals'', First Edition, Wiley, 2014
+4. Tom M Mitchell, ``Machine Learning'', First Edition, McGraw Hill
+   Education, 2013.
 5. Peter Flach, ``Machine Learning: The Art and Science of Algorithms
    that Make Sense of Data'', First Edition, Cambridge University
-   Press, 2012.
+   Press, 2012. 
+
    
 ** CO PO MAPPING 
 #+NAME: co-po-mapping
