@@ -1,7 +1,7 @@
 * <<<PCP1178>>> MACHINE LEARNING LAB
 :properties:
 :author: S Kavitha
-:date: 24 April 2022
+:date: 05 May 2022
 :end:
 
 #+startup: showall
@@ -16,15 +16,16 @@
 - To learn the current need of Industry in ML perspective
 
 ** Suggestive Experiments (Python - Numpy, Scipy, Scikit-learn, Matplotlib)
-1. Perceptron and Linear Regression
-2. Multi-layer Perceptron
-3. Support Vector Machine
-4. Decision Tree algorithm
-5. k-Nearest Neighbor algorithm
-6. K-means clustering
-7. Random Forest and AdaBoost ensemble techniques
-8. Dimensionality reduction techniques : LDA, PCA
-9. Mini project
+1. Linear Regression and Logistic Regression
+2. Support Vector Machine with kernel functions
+3. Decision Tree algorithm
+4. K-means clustering
+5. Ensemble algorithms: Random Forest and AdaBoost 
+6. Dimensionality reduction techniques : LDA, PCA
+7. Perceptron algorithm 
+8. Multi-layer Perceptron using Backpropagation algorithm
+9. convolutional Neural Network
+10. Mini project
 
 \hfill *Total: 30*
 
@@ -40,8 +41,10 @@
 ** Course Outcomes
 On successful completion of this course, the student will be able to
 - Analyse and learn the algoritms in implementation aspect (K4)
-- Design and solve the given problem or appliaction using suitable ML algorithms (K5)
-- Analyse and learn the latest libraries developed by different corporations (K4)
+- Design and solve the given appliaction using suitable ML algorithms (K5)
+- Analyse and learn the latest library developed by H2O.ai (K4)
+
+#+begin_comment
 
 ** CO PO MAPPING 
 #+NAME: co-po-mapping
@@ -54,3 +57,5 @@ On successful completion of this course, the student will be able to
 | CO5            | K2 |  2 |     |     |     |     |     |     |     |     |      |      |    
 | Total          |    | 13 |  6  |  6  |  6  |  6  |     |     |     |     |      |   2  |   
 | Course Mapping |    |  3 |  2  |  2  |  2  |  2  |     |     |     |     |      |   2  | 
+
+#+end_comment
