@@ -1,7 +1,7 @@
 * <<<CP1325>>> DATA VISUALIZATION TECHNIQUES 
 :properties:
-:author: M Saritha, S Lakshmi Priya
-:date: 28 June 2018
+:author: M Saritha
+:date: 05 May 2022
 :end:
 
 #+startup: showall
