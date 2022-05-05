@@ -15,7 +15,7 @@
 - To learn the design of Android mobile operating system
 - To apply the scheduling algorithms in real-time system 
 - To apply the appropriate resource handling techniques for real-time systems
-- To understand the alternatives and tradeoofs in operating system software design
+- To understand the alternatives and tradeoffs in operating system software design
  
 
 {{{unit}}}
