@@ -65,7 +65,6 @@ ML Libraries: Introduction -- H2O -- Installation; Data preparation; Machine lea
 Modofied to one lbrary as per suggestion with tpoics -- 3 chapters 
 #+end_comment
 
-
 \hfill *Total: 45*
 
 ** Course Outcomes
@@ -90,7 +89,7 @@ On successful completion of this course, the student will be able to
    that Make Sense of Data'', First Edition, Cambridge University
    Press, 2012. 
 
-   
+  
 ** CO PO MAPPING 
 #+NAME: co-po-mapping
 |                |    |PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | 
