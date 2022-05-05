@@ -13,7 +13,7 @@
 ** Course Objectives
 - To understand virtualization and setup a cloud environment
 - To learn the design of Android mobile operating system
-- To apply the scheduling algorithms in real-time system 
+- To apply the scheduling algorithms in real-time systems 
 - To apply the appropriate resource handling techniques for real-time systems
 - To understand the alternatives and tradeoffs in operating system software design
  
