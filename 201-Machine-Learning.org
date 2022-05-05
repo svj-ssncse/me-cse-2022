@@ -89,7 +89,7 @@ On successful completion of this course, the student will be able to
    that Make Sense of Data'', First Edition, Cambridge University
    Press, 2012. 
 
-  
+#+begin_comment  
 ** CO PO MAPPING 
 #+NAME: co-po-mapping
 |                |    |PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | 
@@ -101,3 +101,5 @@ On successful completion of this course, the student will be able to
 | CO5            | K2 |  2 |     |     |     |     |     |     |     |     |      |      |    
 | Total          |    | 13 |  6  |  6  |  6  |  6  |     |     |     |     |      |   2  |   
 | Course Mapping |    |  3 |  2  |  2  |  2  |  2  |     |     |     |     |      |   2  | 
+#+end_comment
+
