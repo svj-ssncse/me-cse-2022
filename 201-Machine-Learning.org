@@ -19,52 +19,52 @@
 {{{unit}}}
 |Unit I |Introduction and Mathematical Foundation |8|
 Machine Learning: History -- Applications; Types of machine learning -- Design of a learning system -- Perspectives and issues in machine learning; 
-Basic statitics: Variance and Covariance -- Bias Variance tradeoff -- Curse of dimensionality; Probabilities: Naive Bayes Classifier; Testing ML algorithms.
+Basic statitics: Variance and Covariance -- Bias Variance tradeoff -- Curse of dimensionality -- Conditional Probability -- Naive Bayes Classifier; 
+Testing ML algorithms.
 
-\begin {comment}
+#+begin_comment
 Introduction topics and chapters 1 & 2
-\end {comment}
+#+end_comment
 
 {{{unit}}}
-|Unit II|Linear and Non-Linear Models OR Supervised Learning |10| 
+|Unit II| Supervised Learning |10| 
 Regression: Introduction -- Linear Regression -- Least Squares -- Under fitting and Overfitting -- Cross-Validation – Lasso Regression -- Logistic Regression;
 Classification: Linear and Non-linear models -- Support Vector Machines –- Kernel Methods; K-Nearest Neighbours;
-Learning with Trees: constructing Decision Tree using ID3 – Classification and regression trees(CART);
+Learning with Trees: constructing Decision Tree using ID3 – Classification and regression trees (CART);
 Ensemble Methods -– Bagging -- Boosting -- Random Forest; Evaluation of Classification Algorithms.
 
-\begin{comment}
+\#+begin_comment
 Algorithms related to SL are in Unit2, Chapters 3, 8, 12 and 13
-\end{comment}
+#+end_comment
 
 {{{unit}}}
 |Unit III| Unsupervised learning and Reinforcement Learning |9| 
 Unsupervised Learning: Clustering Algorithms -- K–Means -– Hierarchical Clustering -- Cluster Validity;
-Dimensionality Reduction: Linear discriminant analysis -- Principal component analysis -- Independent component analysis; 
+Dimensionality Reduction: Linear discriminant analysis -- Principal component analysis; 
 Reinforcement Learning: Terminoligies -- Markov decision process -- Sarsa and Q-learning Algorithms.
 
-\begin{comment}
+#+begin_comment
 Algorithms related to USL are in Unit3, Chapters 6 and 11
-\end{comment}
-.
+#+end_comment
 
 {{{unit}}}
 |Unit IV| Neural Networks and Deep Learning |9| 
-Neural Networks: The Brain and the Neuron -- Perceptron;
+Neural Networks: The Brain and the Neuron -- Perceptron learning algorithm;
 Multi-Layer Perceptron: Going forwards -- Going backwards -- Back propagation error -- Multi-layer perceptron in Practice -- Examples of using the MLP;
 Deep Learning: Introduction -– Convolution Neural Networks -– Recurrent Neural Networks -– Use cases.
 
-\begin{comment}
+#+begin_comment
 DL is introduced as an extension of ML 
-\end{comment}
+#+end_comment
 
 {{{unit}}}
-|Unit V| ML Tools or Libraries for Applications |9|
-ML Libraries and Data Visulaization: Introduction -- AutoML with Google Cloud -- Microsoft Azure -- Amazon sage maker  or AWS -- classification, regression;
-Data visualization: LIME and SHAP Tools og Google -- Comparision and analysis. 
+|Unit V| ML with Python and H2O |9|
+ML Libraries: Introduction -- H2O -- Installation; Data preparation; Machine learning: Modelling -- Running model -- Grid search -- Integration with Scikit learn.
 
-\begin{comment}
-Four Libraries are introced from different corporatinions with two explainable AT tools 
-\end{comment}
+#+begin_comment
+Modofied to one lbrary as per suggestion with tpoics -- 3 chapters 
+#+end_comment
+
 
 \hfill *Total: 45*
 
@@ -74,7 +74,7 @@ On successful completion of this course, the student will be able to
 - Analyze linear and non-linear techniques for classification problems (K4)
 - Apply Unsupervisd and reimforcement algorithms for the given problems (K3)
 - Analyse the importance of neural networks in machine and deep learning (K4)
-- Apply different ML tools based on the given requirement and application (K3)
+- Develop a simple application using H2O (K3)
       
 ** References
 1. Stephen Marsland, ``Machine Learning – An Algorithmic
