@@ -21,10 +21,10 @@
 Information Visualization -- Prerequisites for Enlightening Analysis: Aptitudes and attitudes of effective Analysts -- Traits of meaningful data; Power of Visual Perception -- How Visual Perception Works -- Making Abstract Data Visible -- Analytical Interaction -- Analytical Navigation -- Optimal Quantitative Scales -- Reference Lines and Regions -- Trellises and Crosstabs -- Multiple Concurrent Views -- Focus and Context -- Details on Demand -- Over-plotting reduction 
 
 |Unit II| Time-Series Analysis, Part-to-whole and Ranking Analysis|9| 
-Time-series Analysis: Introduction -- Time-series patterns -- Time-series displays -- Time-series analysis techniques and best practices; Part-to-whole and Ranking Analysis: Introduction -- Part-to-whole and ranking patterns -- Part-to-whole and ranking displays -- Part-to-whole and ranking techniques and best practices; Creating graphs and plots for time-series and ranking analysis (e.g. sales revenue)
+Time-series Analysis: Introduction -- Time-series patterns -- Time-series displays -- Time-series analysis techniques and best practices; Part-to-whole and Ranking Analysis: Introduction -- Part-to-whole and ranking patterns -- Part-to-whole and ranking displays -- Part-to-whole and ranking techniques and best practices; Creating graphs for time-series and ranking analysis (e.g. sales revenue)
 
 |Unit III| Deviation Analysis and Distribution Analysis|9| 
-Deviation Analysis: Introduction -- Deviation analysis displays -- Deviation analysis techniques and best practices; Distribution Analysis: Introduction -- Describing distributions – Distribution patterns -- Distribution displays -- Distribution analysis techniques and best practices; Creating graphs and plots for deviation and distribution analysis (e. g. salary ditribution of employees)
+Deviation Analysis: Introduction -- Deviation analysis displays -- Deviation analysis techniques and best practices; Distribution Analysis: Introduction -- Describing distributions – Distribution patterns -- Distribution displays -- Distribution analysis techniques and best practices; Creating plots for deviation and distribution analysis (e. g. salary ditribution of employees)
 
 |Unit IV| Correlation Analysis and Multivariate Analysis|9| 
 Correlation Analysis: Introduction -- Describing correlations -- Correlation patterns -- Correlation displays -- Correlation analysis techniques and best practices; Multivariate Analysis: Introduction -- Multivariate patterns -- Multivariate displays -- Multivariate analysis techniques and best practices; Creating graphs and heatmaps for correlation and multivariate analysis of data (e. g. Marketing expenses)
@@ -38,10 +38,10 @@ Information Dashboard: What is a dashboard? -- Thirteen Common Mistakes in Dashb
 ** Course Outcomes
 After the completion of this course, students will be able to: 
 - Understand core skills for visual analysis (K2)
-- Apply visulaization techniques for time-series data and ranking patterns (K3)
-- Apply visulaization techniques for analyzing the deviation and distribution of data patterns (K3)
+- Apply visualization techniques for time-series data and ranking patterns (K3)
+- Apply visualization techniques for finding the deviation and distribution of data patterns (K3)
 - Analyze the correlation and multivariate patterns among data (K3)
-- Create a dashboard design for simple applications (K4)
+- Understand the characteristics of dashboard and create dashboard design for simple applications (K4)
       
 ** Text Books
 1. Stephen Few, ``Now you see it: Simple Visualization techniques for quantitative analysis'', Analytics Press, 2009. (Units I, II, III, IV)
@@ -52,4 +52,4 @@ After the completion of this course, students will be able to:
 1. Ben Fry, ``Visualizing data: Exploring and explaining data with the processing environment'', O'Reilly, 2008.
 2. Edward R. Tufte, ``The visual display of quantitative information'', Second Edition, Graphics Press, 2001.
 3. Nathan Yau, ``Data Points: Visualization that means something'', Wiley, 2013.
-4. Tamara Munzner, ``Visualization Analysis and Design'', AK Peters Visualization Series, CRC Press, Nov. 2014
+4. Tamara Munzner, ``Visualization Analysis and Design'', AK Peters Visualization Series, CRC Press, 2014
