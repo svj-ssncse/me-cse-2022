@@ -24,10 +24,10 @@
 6. Dimensionality reduction techniques : LDA, PCA
 7. Perceptron algorithm 
 8. Multi-layer Perceptron using Backpropagation algorithm
-9. convolutional Neural Network
+9. Convolutional Neural Network
 10. Mini project
 
-\hfill *Total: 30*
+\hfill *Total: 45*
 
 ** Hardware/Software requirements
 1. Python 3.x
