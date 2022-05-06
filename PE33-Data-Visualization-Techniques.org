@@ -21,30 +21,32 @@
 Information Visualization -- Prerequisites for Enlightening Analysis: Aptitudes and attitudes of effective Analysts -- Traits of meaningful data; Power of Visual Perception -- How Visual Perception Works -- Making Abstract Data Visible -- Analytical Interaction -- Analytical Navigation -- Optimal Quantitative Scales -- Reference Lines and Regions -- Trellises and Crosstabs -- Multiple Concurrent Views -- Focus and Context -- Details on Demand -- Over-plotting reduction 
 
 |Unit II| Time-Series Analysis, Part-to-whole and Ranking Analysis|9| 
-Time-series Analysis: Introduction -- Time-series patterns -- Time-series displays -- Time-series analysis techniques and best practices; Part-to-whole and Ranking Analysis: Introduction -- Part-to-whole and ranking patterns -- Part-to-whole and ranking displays -- Part-to-whole and ranking techniques and best practices
+Time-series Analysis: Introduction -- Time-series patterns -- Time-series displays -- Time-series analysis techniques and best practices; Part-to-whole and Ranking Analysis: Introduction -- Part-to-whole and ranking patterns -- Part-to-whole and ranking displays -- Part-to-whole and ranking techniques and best practices; Creating graphs and plots for time-series and ranking analysis (e.g. sales revenue)
 
 |Unit III| Deviation Analysis and Distribution Analysis|9| 
-Deviation Analysis: Introduction -- Deviation analysis displays -- Deviation analysis techniques and best practices; Distribution Analysis: Introduction -- Describing distributions – Distribution patterns -- Distribution displays -- Distribution analysis techniques and best practices
+Deviation Analysis: Introduction -- Deviation analysis displays -- Deviation analysis techniques and best practices; Distribution Analysis: Introduction -- Describing distributions – Distribution patterns -- Distribution displays -- Distribution analysis techniques and best practices; Creating graphs and plots for deviation and distribution analysis (e. g. salary ditribution of employees)
 
 |Unit IV| Correlation Analysis and Multivariate Analysis|9| 
-Correlation Analysis: Introduction -- Describing correlations -- Correlation patterns -- Correlation displays -- Correlation analysis techniques and best practices; Multivariate Analysis: Introduction -- Multivariate patterns -- Multivariate displays -- Multivariate analysis techniques and best practices
+Correlation Analysis: Introduction -- Describing correlations -- Correlation patterns -- Correlation displays -- Correlation analysis techniques and best practices; Multivariate Analysis: Introduction -- Multivariate patterns -- Multivariate displays -- Multivariate analysis techniques and best practices; Creating graphs and heatmaps for correlation and multivariate analysis of data (e. g. Marketing expenses)
 
 |Unit V| Information Dashboard Design|9| 
-Information Dashboard: What is a dashboard? -- Thirteen Common Mistakes in Dashboard Design -- Gestalt Principles of Visual Perception -- Characteristics of Well-designed Dashboard -- Designing Dashboards for Usability -- Creating a Simple Dashboard (e. g. Sales, Marketing Anlaysis)
+Information Dashboard: What is a dashboard? -- Thirteen Common Mistakes in Dashboard Design -- Gestalt Principles of Visual Perception -- Characteristics of Well-designed Dashboard -- Designing Dashboards for Usability -- Creating a Simple Dashboard using Metabase (e. g. Sales, Marketing Anlaysis)
 
 
 \hfill *Total: 45*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
-- Recognize core skills for visual analysis (K2)
-- Apply visualization techniques for various data analysis tasks (K3)
-- Employ information dashboard design techniques (K3)
-- Use different tools to better visualize data (K3)
+- Understand core skills for visual analysis (K2)
+- To apply visulaization techniques for time-series data and ranking patterns (K3)
+- To apply visulaization techniques for analyzing the deviation and distribution of data patterns (K3)
+- To analyze the correlation and multivariate patterns among data (K3)
+- To create a dashboard design for simple applications (K4)
       
 ** Text Books
 1. Stephen Few, ``Now you see it: Simple Visualization techniques for quantitative analysis'', Analytics Press, 2009. (Units I, II, III, IV)
 2. Stephen Few, ``Information dashboard design: The Effective Visual Communication of Data'', first edition, O'Reilly, 2006. (Unit V)
+3. Tim Abraham, ``Metabase Up and Running'', Packt Publishing Limited, 2020.
 
 ** References
 1. Ben Fry, ``Visualizing data: Exploring and explaining data with the processing environment'', O'Reilly, 2008.
