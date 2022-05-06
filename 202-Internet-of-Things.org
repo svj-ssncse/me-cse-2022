@@ -53,11 +53,11 @@ Introduction to Industrial IOT-- Industrial Process-- The Computer Integrated Ma
 After completion of this course, students should be able to:
 
 Course Outcomes
-To understand the basics of IoT devices, protocols , communication APIs and deployment templates
-To design the simple IoT systems using Raspberry Pi/Arduino Pi 
-To understand various IoT protocols
-To design an IoT system  using cloud environment
- To understand the design flow of Iot solutions for industries.
+- To understand the basics of IoT devices, protocols , communication APIs and deployment templates
+- To design the simple IoT systems using Raspberry Pi/Arduino Pi 
+- To understand various IoT protocols
+- To design an IoT system  using cloud environment
+- To understand the design flow of Iot solutions for industries.
 
 ** References
 1. Arshdeep Bahga, Vijay Madisetti, Internet of Things: A hands-on Approach, UniversityPress, 2015 (1st edition)
@@ -69,7 +69,7 @@ David Boyle,"From Machine - to-Machine to the Internet of Things - Introduction 
 Age of Intelligence", Elsevier, 2014.
 5. Giacomo Veneri, ‎Antonio Capasso, "Hands-On Industrial Internet of Things
 Create a Powerful Industrial IoT Infrastructure Using Industry 4.0",  2018
- 6.Sudip Misra, Anandarup Mukherjee and Arijit Roy, “ Introduction to IOT” Published online by Cambridge University Press:  09 January 2021
+6.Sudip Misra, Anandarup Mukherjee and Arijit Roy, “ Introduction to IOT” Published online by Cambridge University Press:  09 January 2021
 
 
 
