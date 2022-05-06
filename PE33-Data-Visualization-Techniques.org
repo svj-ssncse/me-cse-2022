@@ -17,7 +17,7 @@
 - To analyze correlation and multivariate patterns of data. 
 - To understand issues and best practices in information dashboard design. 
 
-|Unit I| Building Core Skills for Visual Analysis|9| 
+|Unit I| Building Core Skills for Visual Analysis|10| 
 Information Visualization -- Prerequisites for Enlightening Analysis: Aptitudes and attitudes of effective Analysts -- Traits of meaningful data; Power of Visual Perception -- How Visual Perception Works -- Making Abstract Data Visible -- Analytical Interaction -- Analytical Navigation -- Optimal Quantitative Scales -- Reference Lines and Regions -- Trellises and Crosstabs -- Multiple Concurrent Views -- Focus and Context -- Details on Demand -- Over-plotting reduction 
 
 |Unit II| Time-Series Analysis, Part-to-whole and Ranking Analysis|9| 
@@ -29,7 +29,7 @@ Deviation Analysis: Introduction -- Deviation analysis displays -- Deviation ana
 |Unit IV| Correlation Analysis and Multivariate Analysis|9| 
 Correlation Analysis: Introduction -- Describing correlations -- Correlation patterns -- Correlation displays -- Correlation analysis techniques and best practices; Multivariate Analysis: Introduction -- Multivariate patterns -- Multivariate displays -- Multivariate analysis techniques and best practices; Creating graphs and heatmaps for correlation and multivariate analysis of data (e. g. Marketing expenses)
 
-|Unit V| Information Dashboard Design|9| 
+|Unit V| Information Dashboard Design|8| 
 Information Dashboard: What is a dashboard? -- Thirteen Common Mistakes in Dashboard Design -- Gestalt Principles of Visual Perception -- Characteristics of Well-designed Dashboard -- Designing Dashboards for Usability -- Creating a Simple Dashboard using Metabase (e. g. Sales, Marketing Anlaysis)
 
 
