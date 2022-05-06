@@ -38,10 +38,10 @@ Information Dashboard: What is a dashboard? -- Thirteen Common Mistakes in Dashb
 ** Course Outcomes
 After the completion of this course, students will be able to: 
 - Understand core skills for visual analysis (K2)
-- To apply visulaization techniques for time-series data and ranking patterns (K3)
-- To apply visulaization techniques for analyzing the deviation and distribution of data patterns (K3)
-- To analyze the correlation and multivariate patterns among data (K3)
-- To create a dashboard design for simple applications (K4)
+- Apply visulaization techniques for time-series data and ranking patterns (K3)
+- Apply visulaization techniques for analyzing the deviation and distribution of data patterns (K3)
+- Analyze the correlation and multivariate patterns among data (K3)
+- Create a dashboard design for simple applications (K4)
       
 ** Text Books
 1. Stephen Few, ``Now you see it: Simple Visualization techniques for quantitative analysis'', Analytics Press, 2009. (Units I, II, III, IV)
