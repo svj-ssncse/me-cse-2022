@@ -40,8 +40,8 @@
 
 ** Course Outcomes
 On successful completion of this course, the student will be able to
-- Develop machine learning algorithms (K4)
-- Design and solve given appliaction using suitable ML algorithms (K5)
+- Develop machine learning algorithms (K3)
+- Choose suitable ML algorithm to solve the given application (K5)
 - Apply H2O.ai library to develop an application (K3)
 
 #+begin_comment
