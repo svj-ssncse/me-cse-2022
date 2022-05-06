@@ -8,7 +8,7 @@
 
 {{{credits}}}
 |L|T|P|C|
-|0|0|4|2|
+|0|0|3|1.5|
 
 ** Course Objectives
 - To learn advanced tree and graph structures.
@@ -22,26 +22,25 @@
 ** Suggestive Exercises
 1. Insertion sort and merge sort with complexity analysis
 2. Application of binary search trees 
-3. Red-Black Trees
-4. Min heaps, Fibonacci heaps 
-5. Disjoint sets
-6. Application of graph traversals -- BFS and DFS 
-7. Single source Shortest Path Algorithms (e.g. Dijkstra's and Bellman
+3. Min heaps
+4. Disjoint sets
+5. Application of graph traversals -- BFS and DFS 
+6. Single source Shortest Path Algorithms (e.g. Dijkstra's and Bellman
    Ford algorithms)  
-8. All-pairs Shortest Path Algorithms: (e.g. Floyd's algorithm)
-9. Dynamic programming (e.g. Longest common subsequence, 0/1 Knapsack)
-10. Recursive backtracking (e.g. N-Queen’s problem)
-11. Greedy technique (e.g. Job/event scheduling, Minimum spanning tree)
+7. All-pairs Shortest Path Algorithms: (e.g. Floyd's algorithm)
+8. Dynamic programming (e.g. Longest common subsequence, 0/1 Knapsack)
+9. Recursive backtracking (e.g. N-Queen’s problem)
+10. Greedy technique (e.g. Job/event scheduling, Minimum spanning tree)
 
  
-\hfill *Total: 60*
+\hfill *Total: 45*
 
 ** Course Outcomes
 After the completion of this course, students will be able to:
-- Implement basic data structures and sorting algorithms (K3).
-- Implement algorithms using tree and graph structures (K3).
-- Design and develop efficient algorithms for problems, using algorithm
-  design techniques (K4).
+- Solve problems using basic data structures and sorting algorithms. (K3)
+- Solve problems using tree and graph structures. (K3)
+- Analyse algorithm design techniques and develop efficient algorithms (K4)
+ 
 
 #+NAME: co-po-mapping
 |                |    | PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | 
