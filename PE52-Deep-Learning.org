@@ -58,7 +58,7 @@ The Encoder-Decoder Framework - Attention Mechanisms - Transfer Learning in NLP 
 3. Digit recognition using CNN
 4. Next word prediction using RNN
 5. Image augmentation using GAN
-6. Text summarization using T5
+6. Text summarization using T5/GPT-2
 
 \hfill *Total: 15*
 
