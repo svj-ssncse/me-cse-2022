@@ -72,7 +72,7 @@ On successful completion of this course, the student will be able to
 - Explain the basic concepts of machine learning (K2)
 - Analyze linear and non-linear techniques for classification problems (K4)
 - Apply Unsupervised and reinforcement algorithms for the given problems (K3)
-- Analyze the importance of neural networks in machine and deep learning (K4)
+- Analyze importance of neural networks in machine learning and deep learning (K4)
 - Develop a simple application using H2O (K3)
       
 ** References
