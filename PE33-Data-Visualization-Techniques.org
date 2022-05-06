@@ -40,19 +40,12 @@ After the completion of this course, students will be able to:
 - Employ information dashboard design techniques (K3)
 - Use different tools to better visualize data (K3)
       
+** Text Books
+1. Stephen Few, ``Now you see it: Simple Visualization techniques for quantitative analysis'', Analytics Press, 2009. (Units I, II, III, IV)
+2. Stephen Few, ``Information dashboard design: Displaying data for at-a-glance monitoring'', second edition, Analytics
+   Press, 2013. (Unit V)
 ** References
-1. Stephen Few, ``Now you see it: Simple Visualization techniques for
-   quantitative analysis'', Analytics Press, 2009. (units I, II, III)
-2. Stephen Few, ``Information dashboard design: Displaying data for
-   at-a-glance monitoring'', second edition, Analytics
-   Press, 2013. (unit IV)
-3. Daniel G Murray, ``Tableau your data!: Fast and easy visula analysis
-   with Tableau software'', second edition, Wiley, 2016. (unit V)
-4. Ben Fry, ``Visualizing data: Exploring and explaining data with the
-   processing environment'', O'Reilly, 2008.
-5. Edward R. Tufte, ``The visual display of quantitative
-   information'', Second Edition, Graphics Press, 2001.
-6. Nathan Yau, ``Data Points: Visualization that means something'',
-   Wiley, 2013.
-7. Tamara Munzner, ``Visualization Analysis and Design'', AK Peters
-   Visualization Series, CRC Press, Nov. 2014
+1. Ben Fry, ``Visualizing data: Exploring and explaining data with the processing environment'', O'Reilly, 2008.
+2. Edward R. Tufte, ``The visual display of quantitative information'', Second Edition, Graphics Press, 2001.
+3. Nathan Yau, ``Data Points: Visualization that means something'', Wiley, 2013.
+4. Tamara Munzner, ``Visualization Analysis and Design'', AK Peters Visualization Series, CRC Press, Nov. 2014
