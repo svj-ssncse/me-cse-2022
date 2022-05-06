@@ -11,54 +11,25 @@
 |3|0|0|3|
 
 ** Course Objectives
-- To develop skills to both design and critique visualizations.
 - To introduce visual perception and core skills for visual analysis.
-- To understand visualization for time-series, ranking analysis and deviation analysis. 
-- To understand visualization for distribution analysis, correlation analysis and multivariate analysis. 
+- To visualize time-series, part-to-whole and ranking Analysis patterns.
+- To analyze the deviation and distribution of data in real time. 
+- To analyze correlation and multivariate patterns of data. 
 - To understand issues and best practices in information dashboard design. 
 
-{{{unit}}}
-|Unit I|Core Skills for Visual Analysis|9| 
-Information Visualization -- Effective Data Analysis -- Traits of
-Meaningful Data -- Visual Perception -- Making Abstract Data Visible
--- Building Blocks of Information Visualization -- Analytical
-Interaction -- Analytical Navigation -- Optimal Quantitative Scales --
-Reference Lines and Regions -- Trellises and Crosstabs -- Multiple
-Concurrent Views -- Focus and Context -- Details on Demand --
-Over-plotting reduction -- Analytical Patterns: Pattern examples
+|Unit I| Building Core Skills for Visual Analysis|9| 
+Information Visualization -- Prerequisites for Enlightening Analysis: Aptitudes and attitudes of effective Analysts -- Traits of meaningful data; Power of Visual Perception -- How Visual Perception Works -- Making Abstract Data Visible -- Analytical Interaction -- Analytical Navigation -- Optimal Quantitative Scales -- Reference Lines and Regions -- Trellises and Crosstabs -- Multiple Concurrent Views -- Focus and Context -- Details on Demand -- Over-plotting reduction -- Analytical Patterns: Pattern examples
+|Unit II| Time-Series Analysis, Part-to-whole and Ranking Analysis|9| 
+Time-series Analysis: Introduction -- Time-series patterns -- Time-series displays -- Time-series analysis techniques and best practices; Part-to-whole and Ranking Analysis: Introduction -- Part-to-whole and ranking patterns -- Part-to-whole and ranking displays -- Part-to-whole and ranking techniques and best practices
+|Unit III| Deviation Analysis and Distribution Analysis|9| 
+Deviation Analysis: Introduction -- Deviation analysis displays -- Deviation analysis techniques and best practices; Distribution Analysis: Introduction -- Describing distributions – Distribution patterns -- Distribution displays -- Distribution analysis techniques and best practices; 
 
-{{{unit}}}
-|Unit II|Time-Series, Ranking, and Deviation Analysis|9| 
-Time-series Analysis: Time-series patterns -- Time-series displays --
-Time-series analysis techniques and best practices; Part-to-whole and
-Ranking Analysis: Part-to-whole and ranking patterns -- Part-to-whole
-and ranking displays -- Part-to-whole and ranking techniques and best
-practices; Deviation Analysis: Deviation analysis displays --
-Deviation analysis techniques and best practices
+|Unit IV| Correlation Analysis and Multivariate Analysis|9| 
+Correlation Analysis: Introduction -- Describing correlations -- Correlation patterns -- Correlation displays -- Correlation analysis techniques and best practices; Multivariate Analysis: Introduction -- Multivariate patterns -- Multivariate displays -- Multivariate analysis techniques and best practices
 
-{{{unit}}}
-|Unit III|Distribution, Correlation, and Multivariate Analysis|9| 
-Distribution Analysis: Describing distributions -- Distribution
-patterns -- Distribution displays -- Distribution analysis techniques
-and best practices; Correlation Analysis: Describing correlations --
-Correlation patterns -- Correlation displays -- Correlation analysis
-techniques and best practices; Multivariate Analysis: Multivariate
-patterns -- Multivariate displays -- Multivariate analysis techniques
-and best practices
+|Unit V| Information Dashboard Design|9| 
+Information Dashboard: Clarifying the vision -- Thirteen common mistakes in dashboard design -- Tapping into the power of visual perception -- Eloquence through simplicity -- Effective dashboard display media -- Putting it all together
 
-{{{unit}}}
-|Unit IV|Information Dashboard Design|9| 
-Information Dashboard: Clarifying the vision -- Thirteen common
-mistakes in dashboard design -- Tapping into the power of visual
-perception -- Eloquence through simplicity -- Effective dashboard
-display media -- Putting it all together; Dashboard design using Shiny
-
-{{{unit}}}
-|Unit V|Data Visualization Tools|9|
-Tableau: Introducing the tableau desktop workspace -- Connecting to
-your data -- Building your first visualization -- Creating a standard
-map view -- Ploting your own locations on a map -- Building your first
-advanced dashboard
 
 \hfill *Total: 45*
 
