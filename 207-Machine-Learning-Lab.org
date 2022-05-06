@@ -11,9 +11,9 @@
 | 0 | 0 | 3 | 1.5 |
 
 ** Course Objectives
-- To understand and implement the machine learning algorithms
-- To select the suitable algorithms for the given problem and its analysis
-- To learn the current need of Industry in ML perspective
+- To understand and implement machine learning algorithms
+- To select suitable ML algorithms for a given problem and analyze its performance
+- To learn the emerging ML technologies for implementing ML algorithms
 
 ** Suggestive Experiments (Python - Numpy, Scipy, Scikit-learn, Matplotlib)
 1. Linear Regression and Logistic Regression
