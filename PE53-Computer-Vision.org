@@ -1,7 +1,7 @@
 * <<<CP1323>>> COMPUTER VISION
 :properties:
-:author: R Priyadharsini, G Raghuraman
-:date: 27 June 2018
+:author: S. Manisha
+:date: 06 May 2022
 :end:
 
 #+startup: showall
@@ -11,52 +11,44 @@
 |3|0|0|3|
 
 ** Course Objectives
-- To review image processing techniques for computer vision
-- To understand shape and region analysis
-- To understand Hough Transform and its applications to detect lines, circles, ellipses
-- To understand image registration and fusion techniques
-- To understand 3D image visualization
-- To understand motion analysis
-- To study some applications of computer vision algorithms
+- To review image processing techniques for computer vision.
+- To understand shape and region analysis.
+- To understand Hough Transform and its applications to detect lines, circles, ellipses.
+- To understand three-dimensional image and motion analysis techniques.
+- To study some applications of computer vision algorithms.
+
 
 {{{unit}}}
 |Unit I |Image Processing Foundations	|9| 
-Review of Image Processing Techniques: Classical filtering operations;
-Thresholding techniques -- Segmentation: Edge detection techniques --
-Corner and interest point detection; Mathematical morphology; Texture
+Review of Image Processing Techniques: Segmentation: Edge detection techniques --
+Corner and interest point detection; Mathematical morphology; Texture; Binary Shape Analysis; Boundary Tracking Procedures
 
 {{{unit}}}
-|Unit II|Shapes and Regions|9| 
-Binary Shape Analysis: Connectedness -- Object labeling and counting
--- Size filtering --Distance functions -- Skeletons and thinning --
-Deformable shape analysis; Boundary Tracking Procedures: Active
-contours -- Shape models and shape recognition -- Centroidal profiles
--- Handling occlusion -- Boundary length measures; Boundary
-Descriptors: Chain codes; Fourier Descriptors; Region Descriptors;
-Moments
-
-{{{unit}}}
-|Unit III|Hough Transform, Image Registration and Fusion|9| 
-Line Detection: Hough Transform (HT) for line detection -- RANSAC for
+|Unit II|Boundary and Region Descriptors and Hough Transform|9| 
+Boundary Descriptors: Chain codes; Fourier Descriptors; Region Descriptors;
+Moments; Line Detection: Hough Transform (HT) for line detection -- RANSAC for
 straight line detection; HT based circular object detection; HT based
-ellipse detection; Image Registration: Preprocessing -- Feature
-selection -- Feature correspondence -- Transformation functions
+ellipse detection
 
 {{{unit}}}
-|Unit IV|3D Vision|9| 
-Sources of 3D Data sets: Slicing the data set -- Arbitrary section
-planes; The use of color; Volumetric Display: Stereo viewing -- Ray
-tracing -- Reflection -- Surfaces -- Multiply connected surfaces;
+|Unit III|3D Vision and Motion|9| 
 Methods for 3D vision: Projection schemes -- Shape from shading --
 Photometric stereo -- Shape from texture -- Shape from focus -- Active
 range finding; Surface Representations; Point-based Representations;
-Volumetric Representations
+Volumetric Representations; Introduction to Motion: Triangulation -- Bundle adjustment --
+Translational alignment -- Parametric motion -- Spline-based motion --
+Optical flow -- Layered motion
+
 
 {{{unit}}}
-|Unit V|3D Motion and Applications |9|
-Introduction to Motion: Triangulation -- Bundle adjustment --
-Translational alignment -- Parametric motion -- Spline-based motion --
-Optical flow -- Layered motion; Application: Photo album -- Face
+|Unit IV|Image Registration and Transformation|9| 
+ Image Registration: Preprocessing -- Feature
+selection -- Feature correspondence -- Transformation functions; Camera Calibration -- Intrinsic and Extrinsinc Parameters -- Correcting for Radial Distotrions -- Multiple view vision -- generalized epipolar geometry -- Essential Matrix -- fundamental matrix -- image rectification -- 3D reconstruction 
+
+
+{{{unit}}}
+|Unit V|Vision Applications |9|
+ Application: Photo album -- Face
 detection -- Face recognition -- Eigen faces -- Active appearance and
 3D shape models of faces; Application: Surveillance -- Foreground -
 background separation -- Particle filters -- Chamfer matching --
@@ -70,18 +62,18 @@ locating pedestrians.
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
-- Implement fundamental image processing techniques required for computer vision (K4)
-- Perform shape analysis and  Implement boundary tracking techniques (K3)
-- Apply 3D vision techniques (K3)
-- Develop applications using computer vision techniques (K4)
+
+- Apply fundamental image processing techniques required for computer vision. (K3)
+- Apply shape analysis, boundary tracking techniques, chain codes and other region descriptors. (K3)
+- Apply Hough Transform for line, circle, and ellipse detections. (K3)
+- Apply 3D vision techniques. (K3)
+- Analyze the application and develop applications using computer vision techniques. (K4)
 
   
 ** References
-1. Rafael C.Gonzalez and Richard E.Woods, ``Digital Image Processing'', Third Edition, Pearson Education,	2008.
-2. E. R. Davies, ``Computer & Machine Vision'', Fourth Edition, Academic Press, 2012.
-3. R. Szeliski, ``Computer Vision: Algorithms and Applications'', Springer 2011.
-4. Mark Nixon and Alberto S. Aquado, ``Feature Extraction & Image Processing for Computer Vision'', Third Edition, Academic Press, 2012.
-5. John C.Russ, ``The Image Processing Handbook'', CRC Press,2007.
-6. D. L. Baggio, ``Mastering OpenCV with Practical Computer Vision Projects'', Packt Publishing, 2012.
-7. Jan Erik Solem, ``Programming Computer Vision with Python: Tools and Algorithms for Analyzing Images'', O'Reilly Media, 2012
-
+1. E. R. Davies, ―Computer & Machine Vision‖, Fifth Edition, Academic Press, 2017.  (Units 1 to 5)
+2. D. L. Baggio et al., ―Mastering OpenCV with Practical Computer Vision Projects‖, Packt Publishing, 2012.
+3. Jan Erik Solem, ―Programming Computer Vision with Python: Tools and algorithms for analyzing images‖, O'Reilly Media, 2012. 
+4. Mark Nixon and Alberto S. Aquado, ―Feature Extraction & Image Processing for Computer Vision‖, Third Edition, Academic Press, 2012. 
+5. R. Szeliski, ―Computer Vision: Algorithms and Applications‖, Second edition, Springer 2022. 
+6. Simon J. D. Prince, ―Computer Vision: Models, Learning, and Inference‖, Cambridge University Press, 2012.
