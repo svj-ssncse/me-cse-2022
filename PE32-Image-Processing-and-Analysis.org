@@ -138,5 +138,6 @@ After the completion of this course, students will be able to:
 8.	Program for segmentation of an image using watershed transforms.
 9.	Program to determine the edge detection of an image using different operators.
 10.	Program to perform discrete wavelet transform on image.
+11. 	Develop a Fingerprint recognition system
 
 
