@@ -48,7 +48,7 @@ Deep Generative Models: Variational autoencoders -- Generative adversial network
 
 {{{unit}}}
 |Unit V|Transformer Models for Natural Language Processing|6|
-The Encoder-Decoder Framework - Attention Mechanisms - Transfer Learning in NLP - Hugging Face Transformers - Transformer Applications - The Hugging Face Ecosystem ;  Transformer Anatomy: The Transformer Architecture - The Encoder - The Decoder; Summarization: GPT-2 – T5.
+The Encoder-Decoder Framework - Attention Mechanisms - Transfer Learning in NLP - Hugging Face Transformers - Transformer Applications - The Hugging Face Ecosystem ;  Transformer Anatomy: The Transformer Architecture - The Encoder - The Decoder; Summarization: GPT-2 – T5
 
 \hfill *Total: 30*
 
