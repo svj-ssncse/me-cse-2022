@@ -18,17 +18,19 @@
 - To understand issues and best practices in information dashboard design. 
 
 |Unit I| Building Core Skills for Visual Analysis|9| 
-Information Visualization -- Prerequisites for Enlightening Analysis: Aptitudes and attitudes of effective Analysts -- Traits of meaningful data; Power of Visual Perception -- How Visual Perception Works -- Making Abstract Data Visible -- Analytical Interaction -- Analytical Navigation -- Optimal Quantitative Scales -- Reference Lines and Regions -- Trellises and Crosstabs -- Multiple Concurrent Views -- Focus and Context -- Details on Demand -- Over-plotting reduction -- Analytical Patterns: Pattern examples
+Information Visualization -- Prerequisites for Enlightening Analysis: Aptitudes and attitudes of effective Analysts -- Traits of meaningful data; Power of Visual Perception -- How Visual Perception Works -- Making Abstract Data Visible -- Analytical Interaction -- Analytical Navigation -- Optimal Quantitative Scales -- Reference Lines and Regions -- Trellises and Crosstabs -- Multiple Concurrent Views -- Focus and Context -- Details on Demand -- Over-plotting reduction 
+
 |Unit II| Time-Series Analysis, Part-to-whole and Ranking Analysis|9| 
 Time-series Analysis: Introduction -- Time-series patterns -- Time-series displays -- Time-series analysis techniques and best practices; Part-to-whole and Ranking Analysis: Introduction -- Part-to-whole and ranking patterns -- Part-to-whole and ranking displays -- Part-to-whole and ranking techniques and best practices
+
 |Unit III| Deviation Analysis and Distribution Analysis|9| 
-Deviation Analysis: Introduction -- Deviation analysis displays -- Deviation analysis techniques and best practices; Distribution Analysis: Introduction -- Describing distributions – Distribution patterns -- Distribution displays -- Distribution analysis techniques and best practices; 
+Deviation Analysis: Introduction -- Deviation analysis displays -- Deviation analysis techniques and best practices; Distribution Analysis: Introduction -- Describing distributions – Distribution patterns -- Distribution displays -- Distribution analysis techniques and best practices
 
 |Unit IV| Correlation Analysis and Multivariate Analysis|9| 
 Correlation Analysis: Introduction -- Describing correlations -- Correlation patterns -- Correlation displays -- Correlation analysis techniques and best practices; Multivariate Analysis: Introduction -- Multivariate patterns -- Multivariate displays -- Multivariate analysis techniques and best practices
 
 |Unit V| Information Dashboard Design|9| 
-Information Dashboard: Clarifying the vision -- Thirteen common mistakes in dashboard design -- Tapping into the power of visual perception -- Eloquence through simplicity -- Effective dashboard display media -- Putting it all together
+Information Dashboard: What is a dashboard? -- Thirteen Common Mistakes in Dashboard Design -- Gestalt Principles of Visual Perception -- Characteristics of Well-designed Dashboard -- Designing Dashboards for Usability -- Creating a Simple Dashboard (e. g. Sales, Marketing Anlaysis)
 
 
 \hfill *Total: 45*
