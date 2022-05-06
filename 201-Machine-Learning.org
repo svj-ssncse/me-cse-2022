@@ -38,7 +38,7 @@ Algorithms related to SL are in Unit2, Chapters 3, 8, 12 and 13
 #+end_comment
 
 {{{unit}}}
-|Unit III| Unsupervised Llearning and Reinforcement Learning |9| 
+|Unit III| Unsupervised Learning and Reinforcement Learning |9| 
 Unsupervised Learning: Clustering Algorithms -- K–Means -– Hierarchical Clustering -- Cluster Validity;
 Dimensionality Reduction: Linear discriminant analysis -- Principal component analysis; 
 Reinforcement Learning: Terminoligies -- Markov decision process -- Sarsa and Q-learning Algorithms.
@@ -71,7 +71,7 @@ Modofied to one lbrary as per suggestion with tpoics -- 3 chapters
 On successful completion of this course, the student will be able to
 - Explain the basic concepts of machine learning (K2)
 - Analyze linear and non-linear techniques for classification problems (K4)
-- Apply Unsupervised and reinforcement algorithms for the given problems (K3)
+- Apply unsupervised and reinforcement algorithms for the given problems (K3)
 - Analyze importance of neural networks in machine learning and deep learning (K4)
 - Develop a simple application using H2O (K3)
       
