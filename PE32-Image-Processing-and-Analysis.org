@@ -1,58 +1,88 @@
 * <<<CP1233>>> IMAGE PROCESSING AND ANALYSIS
 :properties:
-:author: R Priyadharsini, S Manisha
-:date: 26 June 2018
+:author: K. Lekshmi
+:date: 06 May 2022
 :end:
 
 #+startup: showall
 
 {{{credits}}}
 |L|T|P|C|
-|3|0|0|3|
+|2|0|2|4|
 
 ** Course Objectives
 - To understand the basics of digital images.
 - To understand the spatial and frequency domain processing.
-- To learn basic image analysis - segmentation and feature detection.
-- To understand color image processing and image compression techniques.
+- To learn basic image analysis - segmentation.
+- To learn the feature detection and multi-resolution analysis.
 - To appreciate the use of image processing in various applications.
 
+
 {{{unit}}}
-|Unit I | Fundamentals of Image Processing |8| 
+|Unit I | Fundamentals of Image Processing |5| 
 Introduction -- Elements of visual perception -- Steps in Image
 Processing Systems -- Image Acquisition -- Sampling and Quantization
 -- Pixel Relationships -- Image Modalities -- File Formats -- Image
 Operations: Arithmetic; Logical; Statistical and Spatial operations
 
 {{{unit}}}
-|Unit II| Image Enhancement and Restoration |10| 
+|Unit II| Image Enhancement and Restoration |8| 
 Spatial Domain processing: Filtering operations; Histograms; Smoothing
-filters; Sharpening filters; Fuzzy techniques; Noise models; Filters
-for noise removal Frequency Domain processing: Fourier Transform --
+filters; Sharpening filters; Frequency Domain processing: Fourier Transform --
 DFT and FFT; Filtering operations; Smoothing and Sharpening -- 
-Selective filters; Filters for noise removal; Homomorphic filtering
-Restoration: Model of Image Degradation/Restoration Process, Noise
-Models
+Selective filters; Homomorphic filtering; Restoration: Model of Image Degradation/Restoration Process, 
+Noise Models -- Filters for noise removal in Spatial and Frequency domain
+
+#+BEGIN_COMMENT
+Removal 
+       Fuzzy techniques; Noise models; Filters for noise removal
+Thought process  
+       Having the idea of noise removal in spatial and frequency domain, students will be able to learn the concepts of the above
+Rest of the Topics are re-ordered as Image Enhancement and Image Restoration in Spatial & Frequency Domain respectively
+#+END_COMMENT
 
 {{{unit}}}
-|Unit III| Image Segmentation |10| 
+|Unit III| Image Segmentation |5| 
 Thresholding techniques: Region growing; splitting and merging;
 Adaptive -- Otsu method Edge detection: Template matching; Gradient
 operation; Hysterisis Thresholding -- Canny operator -- Laplacian
 operator; Image morphology -- Binary and Gray Level morphology
 operations -- erosion; dilation -- opening-- closing operations --
-Morphological watersheds 
+Morphological watersheds
+
+#+BEGIN_COMMENT		
+Removal 
+       Features -- Corner and interest point detection -- 
+	   boundary representation and detections -- texture descriptors -- 
+	   regional descriptors and feature selection techniques;
+Thought process  
+        Removed as they will consume more time
+		Image Segmentation can be a seperate topic and Featute related topics can be moved to Unit 4
+#+END_COMMENT 
 
 {{{unit}}}
-|Unit IV| Feature Analysis and Multi Resolution Analysis  |9| 
-Features -- Corner and interest point
-detection -- boundary representation and detections -- texture
-descriptors -- regional descriptors and feature selection techniques;
+|Unit IV| Feature Detection and Multi Resolution Analysis  |6| 
+Features -- Corner and interest point detection -- 
+boundary representation and detections -- texture descriptors -- 
+regional descriptors and feature selection techniques;
 Multi Resolution Analysis: Image Pyramids -- Multi resolution
 expansion -- Wavelet Transforms; Fast Wavelet transforms.
 
+#+BEGIN_COMMENT	
+Removal
+		Image Compression: Fundamentals – Models – Error Free Compression –Lossy Compression –
+		Compression Standards – Watermarking Color Images: Color Models; 
+		Smoothing and Sharpening – Segmentation based on Color – Noise in Color Images
+Inclusion 
+       Features -- Corner and interest point detection -- 
+	   boundary representation and detections -- texture descriptors -- 
+	   regional descriptors and feature selection techniques;
+Thought process  
+        Removed as they will consume more time
+#+END_COMMENT 
+
 {{{unit}}}
-|Unit V| Case Studies in Image Processing|8|
+|Unit V| Case Studies in Image Processing|6|
 Image Recognition : Fingerprint Recognition -- Image Classification :
 Tumor classification from Medical Image -- Image Understanding: CBIR
 -- Image Fusion: Statellite image enhancement -- Object tracking:
@@ -62,13 +92,32 @@ Multimedia
 \hfill *Total: 45*
 
 ** Course Outcomes
-After the completion of this course, students will be able to: 
+After the completion of this course, students will be able to:
+- Explain the fundamental concepts of a digital image processing system (K2)
+- Perform image enhancement and restoration techniques in spatial and frequency domain (K3)
+- Apply the concept of image segmentation and analyze their representation techniques (K3) 
+- Analyze the multi resolution techniques and methods used for color images and apply various image transforms to analyze and modify image  (K3)
+- Apply the techniques of object detection, recognition, classification and enhancement in various applications (K3)
+
+#+BEGIN_COMMENT 
 - Design and implement enhancement and segmentation algorithms for image processing application. (K4)
 - Perform analysis using various image features. (K3)
 - Analyze the multi resolution techniques and methods used for images. (K3)
 - Make a positive professional contribution in the field of Digital Image Processing. (K4)
+#+END_COMMENT 
+
       
 ** References
+1. Rafael C.Gonzalez, Richard E.Woods, ``Digital Image Processing'',
+   Fourth Edition, Pearson Education, 2018. (Units I, II, III, IV)
+2. Wilhelm Burger, Mark J. Burge, ``Principles of Digital Image Processing : Core Algorithms'', Springer, 2009. (Units V)
+3. Anil K.Jain, ``Fundamentals of Digital Image Processing'',
+   PHI, 2006.
+4. Rafael C.Gonzalez, Richard E.Woods, Eddins, ``Digital Image
+   Processing Using MATLAB'', Second Edition, Tata McGraw-Hill, 2009.
+5. Davis, E. R. ``Machine Vision'' Second Edition, 1997.
+
+#+BEGIN_COMMENT 
 1. Rafael C.Gonzalez, Richard E.Woods, ``Digital Image Processing'',
    Third Edition, Pearson Education, 2008. (Units I, II, III, IV)
 2. Anil K.Jain, ``Fundamentals of Digital Image Processing'',
@@ -76,4 +125,18 @@ After the completion of this course, students will be able to:
 3. Rafael C.Gonzalez, Richard E.Woods, Eddins, ``Digital Image
    Processing Using MATLAB'', Second Edition, Tata McGraw-Hill, 2009.
 4. Davis, E. R. ``Machine Vision'' Second Edition, 1997.
+#+END_COMMENT 
+
+** List of Experiments:
+1.	Program to implement smoothing or averaging filter in spatial domain.
+2.	Program to find histogram value and display histograph of a grayscale and color image.
+3.	Program to obtain histogram equalization image
+4.	Program to discretize an image using Fourier transformation.
+5.	Program to eliminate the high frequency components of an image.
+6.	Program to fill the region of interest for the image.
+7.	Program for morphological operation: erosion and dilation
+8.	Program for segmentation of an image using watershed transforms.
+9.	Program to determine the edge detection of an image using different operators.
+10.	Program performs discrete wavelet transform on image.
+
 
