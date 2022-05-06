@@ -42,7 +42,7 @@
 On successful completion of this course, the student will be able to
 - Analyse and learn the algoritms in implementation aspect (K4)
 - Design and solve the given appliaction using suitable ML algorithms (K5)
-- Analyse and learn the latest library developed by H2O.ai (K4)
+- Apply the H2O.ai library to develop an aplication (K3)
 
 #+begin_comment
 
