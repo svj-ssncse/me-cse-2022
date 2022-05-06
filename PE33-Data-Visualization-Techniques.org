@@ -42,8 +42,8 @@ After the completion of this course, students will be able to:
       
 ** Text Books
 1. Stephen Few, ``Now you see it: Simple Visualization techniques for quantitative analysis'', Analytics Press, 2009. (Units I, II, III, IV)
-2. Stephen Few, ``Information dashboard design: Displaying data for at-a-glance monitoring'', second edition, Analytics
-   Press, 2013. (Unit V)
+2. Stephen Few, ``Information dashboard design: The Effective Visual Communication of Data'', first edition, O'Reilly, 2006. (Unit V)
+
 ** References
 1. Ben Fry, ``Visualizing data: Exploring and explaining data with the processing environment'', O'Reilly, 2008.
 2. Edward R. Tufte, ``The visual display of quantitative information'', Second Edition, Graphics Press, 2001.
