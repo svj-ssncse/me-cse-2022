@@ -20,7 +20,7 @@
 
 {{{credits}}}
 | L | T | P | C |
-| 2 | 0 | 2 | 3 |
+| 3 | 0 | 0 | 3 |
 
 {{{unit}}}
 | Unit I |  Introduction to Internet of Things | 9 |
@@ -33,16 +33,16 @@ IoT Physical devices and Endpoints: Basic building blocks of IoT Device –- Ras
 
 {{{unit}}}
 | Unit III | IoT Protocols  | 9 |
-Introduction to IoT Protocols -- 6LoWPAN -- IEEE 802.11wifi -- 802.15 Bluetooth -- 802.15.4 -- Zigbee-- CoAP.
+Introduction to IoT Protocols -- 6LoWPAN -- IEEE 802.11 -- WiFi -- 802.15 Bluetooth -- 802.15.4 -- Zigbee-- CoAP.
 
 {{{unit}}}
-| Unit IV | IoT Physical Servers & Cloud Offerings | 9 |
+| Unit IV | IoT Servers  | 9 |
 Cloud Storage Models and Communication APIs for IoT-- WAMP-Xively Cloud-- Python Web Application framework-- Designing a RESTful Web API-- Amazon Web Services for IoT-- MQTT  --Case studies for IoT Design : Home automation-- Smart Agriculture.
 
 
 {{{unit}}}
 | Unit V | Industrial Internet of Things (IIoT) | 9|
-Introduction to Industrial IOT-- Industrial Process-- The Computer Integrated Manufacturing Pyramid (CIM)-- IIoT data flow-- Understanding the IIoT edge: features of the edge -- architecture and implementations. Implementing cloud  IOT industrial solution with cloud service. (Giacomo book)
+Introduction -- Industrial Process-- The Computer Integrated Manufacturing Pyramid (CIM)-- IIoT data flow-- Understanding the IIoT edge: features of the edge -- architecture and implementations. Implementing IOT industrial solution with cloud services.  
 
 
 
@@ -53,11 +53,11 @@ Introduction to Industrial IOT-- Industrial Process-- The Computer Integrated Ma
 After completion of this course, students should be able to:
 
 Course Outcomes
-- To understand the basics of IoT devices, protocols , communication APIs and deployment templates
-- To design the simple IoT systems using Raspberry Pi/Arduino Pi 
-- To understand various IoT protocols
-- To design an IoT system  using cloud environment
-- To understand the design flow of Iot solutions for industries.
+- To explain the basics of IoT devices, protocols , communication APIs and deployment templates (K2)
+- To design the simple IoT systems using Raspberry Pi/Arduino Pi (K3)
+- To explain various IoT protocols (K2)
+- To design an IoT system  using cloud environments (K3)
+- To design IoT solutions for industries. (K3).
 
 ** References
 1. Arshdeep Bahga, Vijay Madisetti, Internet of Things: A hands-on Approach, UniversityPress, 2015 (1st edition)
