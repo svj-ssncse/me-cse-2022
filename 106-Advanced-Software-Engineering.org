@@ -23,7 +23,7 @@
 Requirement Analysis and Specification --  
 Software Requirements Specification Document -- Object Oriented Design using UML Diagrams-- 
 Best Practices of Module Design: Coupling and Cohesion --
-Software Testing: Blackbox and Whitebox Techniques  -- 
+Testing: Blackbox and Whitebox Techniques
 Agile Methodology: Pair Programming -- Test-Driven Development
 
 {{{unit}}}
@@ -56,7 +56,7 @@ Continuous Delivery for ML Models: Packaging for ML Models -- Infrastructure as 
 
 ** Course Outcomes
 After the completion of this course, students will be able to:
-- Analyze the requirements and design software using UML diagrams to meet the specified requirements (K3)
+- Make use of the UML diagrams and design software to meet the specified requirements (K3)
 - Apply suitable software architectural styles and tactics to achieve software quality requirements(K3)
 - Apply appropriate object-oriented design patterns to improve maintainability and software evolution (K3).
 - Define the best practices of DevOps(K2)
