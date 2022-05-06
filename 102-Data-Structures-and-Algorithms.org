@@ -15,7 +15,7 @@
 
 ** COURSE OBJECTIVES
 - To understand the use of algorithms in computing.
-- To learn develop algorithms using hierarchical data structures.
+- To develop algorithms using hierarchical data structures.
 - To select and use data structures and algorithms appropriate to the
   problems.
 - To study about NP hard and NP completeness of problems. 
