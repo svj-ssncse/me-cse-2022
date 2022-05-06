@@ -64,9 +64,9 @@ locating pedestrians.
 After the completion of this course, students will be able to: 
 
 - Apply fundamental image processing techniques required for computer vision. (K3)
-- Apply shape analysis, boundary tracking techniques, chain codes and other region descriptors. (K3)
-- Apply Hough Transform for line, circle, and ellipse detections. (K3)
+- Apply boundary and region descriptors and hough transforms. (K3)
 - Apply 3D vision techniques. (K3)
+- Apply image registration and transormation of image and perform camera calibration (K3)
 - Analyze the application and develop applications using computer vision techniques. (K4)
 
   
