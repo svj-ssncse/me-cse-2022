@@ -62,7 +62,7 @@ After the completion of this course, students will be able to:
 - Build the components of an information retrieval system. (K3)
 - Apply search strategies for IR. (K3)
 - Apply machine learning techniques to text classification and clustering used for efficient IR. (K3)
-- Explain various IR applications. (K2)
+- Apply IR techniques for various applications. (K3)
 
 
 ** References
