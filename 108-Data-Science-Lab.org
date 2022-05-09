@@ -18,8 +18,8 @@
 - To get familiar with machine learning algorithms.
 
 
-** Suggestive Experiments
-*** Python
+*** Suggestive Experiments
+
 1. Implement basic data types and user defined functions using Python.
 
 2. Develop python programs for packages and working on files.
