@@ -20,34 +20,34 @@ The student should be made to:
 
 
 {{{unit}}}
-|Unit I |Parallel and Distributed Databases|9| 		
-Database System Architectures: Centralized and Client-Server Architectures -– Server System Architectures –- Parallel Systems -- Distributed Systems; Parallel Databases: I/O Parallelism -– Inter and Intra Query Parallelism –- Inter and Intra operation Parallelism –- Design of Parallel Systems; Distributed Database Concepts: Distributed Data Storage –- Distributed Transactions –- Commit Protocols –- Concurrency Control –- Distributed Query Processing -- Case Studies.  
+|Unit I |Distributed Databases|9| 	
+Distribution Models: Single Server-- Sharding-- Master--Slave Replication --Peer-to-Peer Replication -- Combining Sharding and Replication; Consistency:  Update Consistency-- Read Consistency-- Relaxing Consistency--The CAP Theorem-- Relaxing Durability-- Quorums.
 
 {{{unit}}}
-|Unit II|Object and Object-Relational Databases|9|
-Object Database Concepts: Object-Oriented Concepts and Features -- Object Identity, and Objects versus Literals -- Complex Type Structures for Objects and Literals -- Encapsulation of Operations and Persistence of Objects -- Type Hierarchies and Inheritance -- Other Object-Oriented Concepts; Object-Relational Features: Object Database Extensions to SQL; ODMG Object Model and ODL -- Object Database Conceptual Design -- Object Query Language OQL -- C++ Language Binding in the ODMG Standard.
+|Unit II|Data Models for Data Lake|9|
+Data Models -- Categorizing Data Models -- Data Model vs Data Format -- Data Stream -- Understanding Data Lake -- Inside Data Lake -- Generic Structure of Data Ponds -- Applications of Data Pond – Data Warehousing vs Data Lake -- Big Data Integration with Data Lake -- Apache Sqoop.
 
 {{{unit}}}
-|Unit III|XML And Web Databases |9| 
-XML Databases: XML Data Model –- DTD –- XML Schema –- XML Querying -- XML Languages -- Extracting XML Documents from Relational Databases; Introduction to Web Database.
+|Unit III|Columnar and Key-Value Databases |9| 
+Cassandra Data Model  -- Clusters -- Keyspaces --Column Families --Columns -- Super Columns -- Design Differences Between RDBMS and Cassandra --Design Patterns -– Cassandra Architecture; Key-Value Databases: What Is a Key-Value Store --Key Value Store Features -- Use Cases.
 
 {{{unit}}}
-|Unit IV|Mobile Databases |9| 
-Mobile Databases: Location and Handoff Management; Effect of Mobility on Data Management: Data Categorization -- Location Dependent Data Distribution ; Mobile Transaction Models: HiCoMo -- Moflex -- Kangaroo -- MDSTPM --Mobilaction; Concurrency Control Mechanism -- Transaction Commit Protocols -- Mobile Database Recovery Schemes.
+|Unit IV|Document and Graph Databases |9| 
+Database for modern Web: MongoDB -- MongoDB Shell -- Creating, Updating, and Deleting Documents -- Querying; Graph Databases An Overview -- Started with Neo4j -- Modelling data for Neo4j -- Use Case Examples: Recommender Systems & Impact Analysis and Simulation --Visualization for Neo4j.
 
 {{{unit}}}
-|Unit V|Intelligent Databases |9| 
-Active Databases: Syntax and Semantics (Starburst, Oracle, DB2) -- Taxonomy- Applications -- Design Principles for Active Rules; Temporal Databases: Overview of Temporal Databases TSQL2 -- Deductive Databases--Recursive Queries in SQL; Spatial Databases: Spatial Data Types -- Spatial Relationships-- Spatial Data Structures--Spatial Access Methods-- Spatial DB Implementation; Multimedia Database Concepts.
+|Unit V|Streaming Data|9| 
+Change Data Capture Concepts --Strategies for Data Capture -- Types of CDC -- CDC Trade-offs --CDC Tools -- Analyzing a Centralized Data Store -- Publishing to Kafka -- Schema and Data.
 
 \hfill *Total: 45*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
-- Understand the parallel and distributed databases. (K3)
-- Apply the object oriented database concepts and features.(K3)
-- Describe and design XML databases. (K3)
-- Understand the mobile databases and its transaction models.(K2)
-- Understand the different types of intelligent databases.(K2)
+- Make use of the methods and techniques for distributed quey processing(k3)
+- Explain the data models for data lake. (K2)
+- Apply the techniques of wide-column and key-value databases to create databases and run the queries. (K3)
+- Apply the concepts of document and graph databases to add contents and run the queries. (K3)
+- Explain the concepts of streaming data (K2)
 
 
       
