@@ -30,7 +30,7 @@ Configuration management process : monitoring and control -- auditing -- testing
 
 {{{unit}}}
 |UNIT II | MICROSERVICES | 9 |
-An Introduction to Microservices:What Are Microservices? ; Switching to Microservices:Cost Components; Interprocess Communication:Putting It All Together; Case Study: Migration to Microservices -- Planning for Migration -- Planning for Migration -- Applying Microservices Criteria -- Converting to Microservices -- Application Build and Deployment.
+An Introduction to Microservices:What Are Microservices? ; Switching to Microservices:Cost Components; Interprocess Communication:Putting It All Together; Case Study: Migration to Microservices -- Planning for Migration -- Applying Microservices Criteria -- Converting to Microservices -- Application Build and Deployment.
 
 #+begin_comment
 ...Included from Text Book 2, chapter 1,2,3,12
@@ -70,13 +70,13 @@ Container Orchestration : Kubernetes -- Kubectl -- Master Node -- Worker Nodes -
 ** COURSE OUTCOMES
 Upon completion of the course, the student should be able to
 1. Explain traditional software configuration principles (K2)
-2. Develop  microservices (K3)
+2. Develop  and deploy microservices (K3)
 3. Build a container and deploy a  microservice (K3)
 4. Explain networking concepts in containers (K2)
 5. Choose  configuration features using Kubernetes and Docker swarm (K3).
 
       
-** TEXT BOOKS
+** REFERENCES
 1. Shirley Lacy and David Norfolk, ``CONFIGURATION MANAGEMENT, Expert
    guidance for IT service managers and practitioners``, Revised
    edition, BCS Learning and Development Ltd, UK, 2014.
@@ -84,25 +84,12 @@ Upon completion of the course, the student should be able to
    Addison-Wesley, 2018.
 3. Michael Hausenblas, ``Docker Networking and Service Discovery'',
    O'Reilly Publication, 2016.
-
-** REFERENCES
-1. Thomas Uphill, ``Mastering Puppet'', Second Edition,PACKT
+4. Thomas Uphill, ``Mastering Puppet'', Second Edition,PACKT
    Publishing, 2016
-2. Scott Coulton, ``Puppet for Containerization'', PACKT Publishing,
+5. Scott Coulton, ``Puppet for Containerization'', PACKT Publishing,
    2016
-3. Cesar de la Torre, Bill Wagner, Mike Rouses, ``.NET Microservices:
+6. Cesar de la Torre, Bill Wagner, Mike Rouses, ``.NET Microservices:
    Architecture for Containerized .NET Applications'', Microsoft
    Corporation, V5.) Edition, 2020.
 
 
-** CO TO PO/PSO MAPPING 
-| PO/PSO | 1 |  2 |  3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 1 | 2 |
-|--------+---+----+----+---+---+---+---+---+---+----+----+----+---+---|
-| CO1    |   |  2 |  2 |   |   |   |   |   |   |    |    |    | 2 |   |
-| CO2    | 3 |  3 |  2 |   |   |   |   |   | 3 |  3 |  3 |    | 2 |   |
-| CO3    | 3 |  3 |  2 |   |   |   |   |   | 3 |  3 |  3 |    | 2 |   |
-| CO4    | 3 |  2 |  2 |   |   |   |   |   |   |    |    |    |   |   |
-| CO5    |   |  2 |  2 |   |   |   |   |   |   |    |    |    | 2 |   |
-|--------+---+----+----+---+---+---+---+---+---+----+----+----+---+---|
-| Score  | 9 | 12 | 10 |   |   |   |   |   | 6 |  6 |  6 |    | 8 |   |
-| Course | 3 |  3 |  2 |   |   |   |   |   | 3 |  3 |  3 |    | 2 |   |
