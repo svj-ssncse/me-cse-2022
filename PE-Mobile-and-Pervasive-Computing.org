@@ -57,21 +57,18 @@ Management -- Formal Transaction Verification
 
 ** Course Outcomes
 Upon the completion of the course the students should be able to: 
-- Understand the Basic architecture and concepts of Mobile Computing
-  (K2)
-- Understand the 4G Telecommunication System Principles (K2) 
-- Understand the basis of pervasive computing (K2)
-- Apply HCI in Pervasive environment (K3)
-- Model pervasive computing problems in mobile environment (K3).
+- Explain the Basic architecture and concepts of Mobile Computing.  (K2)
+- Outline the functionalities of 4G Telecommunication System. (K2)
+- Identify the features of pervasive computing. (K3)
+- Apply HCI in pervasive environment. (K3)
+- Choose appropriate pervasive transactions. (K3)
+
       
 ** References
-1. J. Schiller, ``Mobile Communications'', Addison Wesley, 2000.(Unit
-   I)
-2. Minyi Guo, Jingyu Zhou, Feilong Tang, Yao Shen, ``Pervasive
-   Computing: Concepts, Technologies and Applications '' CRC Press,
+1. J. Schiller, ``Mobile Communications'', Addison Wesley, 2000.(Unit   I)
+2. Minyi Guo, Jingyu Zhou, Feilong Tang, Yao Shen, ``Pervasive    Computing: Concepts, Technologies and Applications '' CRC Press,
    2016 (Unit III, IV, V)
-3. Juha Korhonen, ``Introduction to 4G Mobile Communications'' ,
-   Artech House Publishers, 2014(Unit II)
+3. Juha Korhonen, ``Introduction to 4G Mobile Communications'' ,   Artech House Publishers, 2014(Unit II)
 4. Kolomvatsos, Kostas, ``Intelligent Technologies and Techniques for
    Pervasive Computing'', IGI Global, 2013.
 5. M. Bala Krishna, Jaime Lloret Mauri, ``Advances in Mobile Computing
