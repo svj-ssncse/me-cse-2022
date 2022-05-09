@@ -6,8 +6,8 @@
 
 #+startup: showall
 {{{title-tab}}}
-| CODE    | COURSE TITLE             | L | T | P | E | C |
-| UCS2602 | SOFTWARE SECURITY        | 3 | 0 | 0 | 0 | 3 |
+| CODE    | COURSE TITLE                     | L | T | P | E | C |
+| UCS2602 | SECURITY PRINCIPLES AND PRACTICE | ` | 0 | 0 | 0 | 3 |
 
 ** R2021 CHANGES :noexport:
 New Syllabus

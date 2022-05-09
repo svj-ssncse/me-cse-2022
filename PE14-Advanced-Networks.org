@@ -1,4 +1,4 @@
-* <<<PCP1102>>> NETWORK DESIGN AND TECHNOLOGIES 
+* <<<PCP1102>>> ADVANCED NETWORKS
 :properties:
 :author: S. V. Jansi Rani
 :date: 12 July 2018
