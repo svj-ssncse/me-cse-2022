@@ -61,7 +61,7 @@ Upon the completion of the course the students should be able to:
 - Outline the functionalities of 4G Telecommunication System. (K2)
 - Identify the features of pervasive computing. (K3)
 - Apply HCI in pervasive environment. (K3)
-- Choose appropriate pervasive transactions. (K3)
+- Choose appropriate pervasive transactions for a pervasive environment. (K3)
 
       
 ** References
