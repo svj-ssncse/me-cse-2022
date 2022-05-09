@@ -26,7 +26,7 @@ Processing Systems -- Image Acquisition -- Sampling and Quantization
 Operations: Arithmetic; Logical; Statistical and Spatial operations
 
 {{{unit}}}
-|Unit II| Image Enhancement and Restoration |8| 
+|Unit II| Smoothing and Sharpening |8| 
 Spatial Domain processing: Filtering operations; Histograms; Smoothing
 filters; Sharpening filters; Frequency Domain processing: Fourier Transform --
 DFT and FFT; Filtering operations; Smoothing and Sharpening -- 
