@@ -1,7 +1,7 @@
 * <<<CP1222>>> ADVANCED DATABASES 
 :properties:
-:author: P. Mirunalini, A. Beulah
-:date: 27 June 2018
+:author: J. Suresh, A. Beulah
+:date: 9 May 2022
 :end:
 
 #+startup: showall
@@ -11,10 +11,13 @@
 | 3 | 0 | 0 | 3 |
 
 ** Course Objectives
-- To acquire knowledge on parallel and distributed databases and its applications. 
-- To understand  and apply the concepts of object and object-relational databases.
-- To design and develop a web database using XML data model. 
-- To understand the emerging databases like mobile, and intelligent databases. 
+The student should be made to:
+- Understand the concepts of distributed databases
+- Be familiar with the data models for data lake.
+- Learn the basics of columnar and key-value databases.
+- Be exposed to document and graph databases.
+- Gain knowledge about streaming data.
+
 
 {{{unit}}}
 |Unit I |Parallel and Distributed Databases|9| 		
