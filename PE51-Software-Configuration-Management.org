@@ -20,7 +20,7 @@
 - Modify the configuration techniques using kubernetes and Docker swarm 
 
 {{{unit}}}
-|UNIT I | TRADITIONAL | 9 |
+|UNIT I | TRADITIONAL PROCESS | 9 |
 Configuration management process : monitoring and control -- auditing -- testing -- incident and defect management -- problem management -- change management -- automation and tools -- lifecycle controls -- culture and organisation; Service asset and configuration management visions and strategies; Populating a CMDB  Process design : -- populate your CMDB; Case study monolithic application : Build the application -- Deploy the application.
 
 #+begin_comment
@@ -37,7 +37,6 @@ An Introduction to Microservices:What Are Microservices? ; Switching to Microser
 
 #+end_comment
  
-
 {{{unit}}}
 |UNIT III | CONTAINERS | 9 |
 Docker Containers:Virtual Machines -- Containers -- Docker Architecture and Components -- The Power of Docker: A Simple Example;
