@@ -52,15 +52,10 @@ After the completion of this course, students will be able to:
 
       
 ** References
-1. R. Elmasri, S.B. Navathe,``Fundamentals of Database Systems'',
-   Sixth Edition, Pearson Education/Addison Wesley, 2010. (Units I,
-   II, III, V)
-2. Vijay Kumar, ``Mobile Database Systems'', John Wiley &
-   Sons, 2006. (Unit IV)
-3. Henry F Korth, Abraham Silberschatz, S. Sudharshan,``Database
-   System Concepts'', Sixth Edition, McGraw Hill, 2011.
-4. C. J. Date, A.Kannan, S.Swamynathan, ``An Introduction to Database
-   Systems'', Eighth Edition, Pearson Education, 2006.
-5. Carlo Zaniolo, Stefano Ceri, Christos Faloutsos, Richard
-   T.Snodgrass, V.S.Subrahmanian, Roberto Zicari, ``Advanced Database
-   Systems'', Morgan Kaufmann publishers, 2006.
+1.	Sadalage, Pramod J., and Martin Fowler, ``NoSQL distilled: a brief guide to the emerging world of polyglot persistence", Pearson Education, 2013. (Units I, III, IV)
+2.	Gupta, Saurabh, and Venkata Giri, ``Practical Enterprise Data Lake Insights: Handle Data-Driven Challenges in an Enterprise Big Data Lake", Apress, 2018. (Units II , V)
+3.	Bill Inmon, ``Data Lake Architecture: Designing the data lake and avoiding the garbage dump", 1st Edition, Technics Publications, 2016.(Unit II)
+4.	Hewitt, Eben, ``Cassandra: the definitive guide",  O'Reilly Media, Inc., 2010.(Unit III)
+5.	Bradshaw, Shannon, Eoin Brazil, and Kristina Chodorow, ``MongoDB: the definitive guide: powerful and scalable data storage",  O'Reilly Media, 2019. (Unit IV)
+6.	Aaron Ploetz , Tejaswi Malepati , Nishant Neeraj, ``Mastering Apache Cassandra 3.x", 3rd Edition, Packt Publishers, 2018.(Unit 3)
+7.	Kyle Banker, Peter Bakkum, Shaun Verch, Douglas Garrett, and Tim Hawkin, ``MongoDB in Action", 2nd Edition, Manning Publications, 2016.(Unit III)
