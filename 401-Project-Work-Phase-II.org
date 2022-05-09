@@ -1,0 +1,46 @@
+* <<<CP1202>>> 
+:properties:
+:author: Dr.K.Madheswari, Dr. K R Sarath Chandran
+:date: 05 May 2022
+:end:
+
+#+startup: showall
+
+   ** CO PO MAPPING 
+#+NAME: co-po-mapping
+|                |    |PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | 
+|                |    | K3 | K6  |  K6 |  K6 | K6  |     |     |     |     |      |      |     
+| CO1            | K2 |  2 |     |     |     |     |     |     |     |     |      |      |    
+| CO2            | K2 |  2 |     |     |     |     |     |     |     |     |      |      |  
+| CO3            | K2 |  2 |     |     |     |     |     |     |     |     |      |      |    
+| CO4            | K3 |  3 |  2  |  2  |  2  |  2  |     |     |     |     |      |      |    
+| CO5            | K3 |  3 |  2  |  2  |  2  |  2  |     |     |     |     |      |      |    
+| Total          |    | 12 |  4  |  4  |  4  |  4  |     |     |     |     |      |      |   
+| Course Mapping |    |  3 |  2  |  2  |  2  |  2  |     |     |     |     |      |      |    
+
+{{{credits}}}
+| L | T | P | C |
+| 0 | 0 | 3 |1.5 |
+
+
+
+** List of Experiments
+1. Interface Arduino board to read analog and digital values using Light Dependent Resistor  and Ultrasonic sensors. 
+2. Interface Raspberry Pi board to read analog and digital values using temperature and humidity sensors. 
+3.  Construct a Raspberry Pi based system to control the LED using a switch.
+4. Interface  Arduino/Raspberry Pi with a sensor and LED to read the status in a smartphone using Bluetooth protocol. 
+5.  Develop an Arduino/Raspberry Pi based system which communicates to the cloud for sending and retrieving the temperature and humidity data.
+6.  Develop an Arduino/Raspberry Pi based system to publish/subscribe temperature data using MQTT.
+7.  Develop an Arduino/Raspberry Pi based system to measure the light intensity in the room and output the data to a web API.
+8.  Mini Project (Suggestions: Develop a system to analyse the quality of drinking water using required IoT devices, cloud, mobile and web app, Develop a basic home automation system using cloud platform, Develop a basic smart agriculture system using cloud platform)
+
+\hfill *Total: 45*
+
+** Course Outcomes
+After completion of this course, students should be able to:
+
+- To  build simple IoT systems using Arduino/Raspberry Pi and sensors (K3).
+- To build low cost embedded systems using various communication protocols and web APIs (K3)
+- To develop cloud based IoT solutions for real time applications (K6).
+
+
