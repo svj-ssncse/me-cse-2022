@@ -43,11 +43,11 @@ Change Data Capture Concepts --Strategies for Data Capture -- Types of CDC -- CD
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
-- Make use of the methods and techniques for distributed quey processing(k3)
+- Make use of the methods and techniques for distributed quey processing(K3)
 - Explain the data models for data lake. (K2)
-- Apply the techniques of wide-column and key-value databases to create databases and run the queries. (K3)
-- Apply the concepts of document and graph databases to add contents and run the queries. (K3)
-- Explain the concepts of streaming data (K2)
+- Apply the techniques of wide-column and key-value store to create databases and run the queries. (K3)
+- Apply the concepts of document and graph databases and run the queries. (K3)
+- Explain the concepts of streaming data and how to make use of Kafka(K3)
 
 
       
