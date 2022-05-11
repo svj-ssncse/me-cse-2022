@@ -49,7 +49,7 @@ Crosscutting concerns: Monitoring -- Security
 Introduction to MLOps: What is MLOps? -- DevOps and MLOps -- An MLops Hierarchy of needs -- 
 MLOps Foundations: Machine Learning Key Concepts -- Build an MLOps Pipeline from Zero --  
 Continuous Delivery for ML Models: Packaging for ML Models -- Infrastructure as Code for Continuous Delivery of ML Models 
--- Using Cloud Pipelines -- AutoML
+-- Using Cloud Pipelines -- Monitoring and Logging: Observability for Cloud MLOps -- Monitoring and observability
 
 
 \hfill *Total: 45*
