@@ -44,12 +44,9 @@
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
-- Demonstrate the fundamentals in python (K2)
 - Analyze the significance of python packages for data creation and manipulation (K4)
 - Experiment the methods of data handling and visualization through NumPy, Pandas and MatplotLib modules (K3).
-- Construct Python programs for obtaining statistical inference on data. (K3)
-- Develop machine learning algorithms for real world application. (K3)
-
+- Construct Python programs for obtaining statistical inference on data and develop machine learning algorithms for real world application. (K3)
 
   ** CO PO MAPPING 
 #+NAME: co-po-mapping
