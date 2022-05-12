@@ -1,2 +1,86 @@
-*
-RESEARCH METHODOLOGY AND IPR
+:properties:
+:author: S Kavitha
+:date: 10 May 2022
+:end:
+
+#+startup: showall
+
+{{{credits}}}
+| L | T | P | C |
+| 2 | 0 | 0 | 2 |
+
+** Course Objectives
+To impart knowledge and skills required for research and IPR: 
+- Problem formulation, analysis and solutions. 
+- Technical paper writing / presentation without violating professional ethics 
+- Patent drafting and filing patents
+
+
+{{{unit}}}
+|Unit I |RESEARCH DESIGN |6|
+Overview of research process and design; Use of Secondary and exploratory data to answer the research question; Qualitative research; Observation studies; Experiments and Surveys. 
+
+{{{unit}}}
+|Unit II| DATA COLLECTION AND SOURCES |6| 
+Measurements: Measurement Scales; Questionnaires and Instruments; Sampling and methods.
+Data-Preparing -- Exploring -- examining and displaying. 
+
+{{{unit}}}
+|Unit III| DATA ANALYSIS AND REPORTING |6| 
+Overview of Multivariate analysis; Hypotheses testing and Measures of Association; 
+Presenting Insights and findings using written reports and oral presentation. 
+
+{{{unit}}}
+|Unit IV| INTELLECTUAL PROPERTY RIGHTS |6| 
+Intellectual Property: The concept of IPR -- Evolution and development of concept of IPR -- IPR development process: Trade secrets -- utility Models -- Right of Property; Common rules of IPR practices; Types and Features of IPR Agreement; Trademark.
+
+#+begin_comment
+IPR & Biodiversity, Role of WIPO and WTO in IPR establishments, Functions of UNESCO in IPR maintenance.
+are removed 
+#+end_comment
+
+{{{unit}}}
+|Unit V| PATENTS |6|
+Patents: objectives and benefits of patent; Concept, features of patent; Inventive step; Specification, Types of patent application, process E-filing, Examination of patent, Grant of patent, Revocation, Equitable Assignments, Licences, Licensing of related patents, patent agents, Registration of patent agents
+
+#+begin_comment
+Modofied to one lbrary as per suggestion with tpoics -- 3 chapters 
+#+end_comment
+
+\hfill *Total: 45*
+
+** Course Outcomes
+On successful completion of this course, the student will be able to
+- Explain the basic concepts of machine learning (K2)
+- Analyze linear and non-linear techniques for classification problems (K4)
+- Apply unsupervised and reinforcement algorithms for the given problems (K3)
+- Analyze importance of neural networks in machine learning and deep learning (K4)
+- Develop a simple application using H2O (K3)
+      
+** References
+1. Stephen Marsland, ``Machine Learning – An Algorithmic
+   Perspective'', Second Edition, Chapman and Hall/CRC Machine
+   Learning and Pattern Recognition Series, 2015.
+2. Pasha Stetsenko, ''Machine Learning with Python and H2O'', Published by H2O.ai, Inc., 2017
+3. Ethem Alpaydin, ``Introduction to Machine Learning (Adaptive
+   Computation and Machine Learning Series)'', Fourth Edition, MIT
+   Press, 2020
+4. Tom M Mitchell, ``Machine Learning'', First Edition, McGraw Hill
+   Education, 2013.
+5. Peter Flach, ``Machine Learning: The Art and Science of Algorithms
+   that Make Sense of Data'', First Edition, Cambridge University
+   Press, 2012. 
+
+#+begin_comment  
+** CO PO MAPPING 
+#+NAME: co-po-mapping
+|                |    |PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | 
+|                |    | K3 | K6  |  K6 |  K6 | K6  |     |     |     |     |      |      |     
+| CO1            | K2 |  2 |     |     |     |     |     |     |     |     |      |   2  |    
+| CO2            | K4 |  3 |  2  |  2  |  2  |  2  |     |     |     |     |      |      |  
+| CO3            | K3 |  3 |  2  |  2  |  2  |  2  |     |     |     |     |      |      |    
+| CO4            | K3 |  3 |  2  |  2  |  2  |  2  |     |     |     |     |      |      |    
+| CO5            | K2 |  2 |     |     |     |     |     |     |     |     |      |      |    
+| Total          |    | 13 |  6  |  6  |  6  |  6  |     |     |     |     |      |   2  |   
+| Course Mapping |    |  3 |  2  |  2  |  2  |  2  |     |     |     |     |      |   2  | 
+#+end_comment
