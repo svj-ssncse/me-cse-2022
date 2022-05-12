@@ -1,4 +1,4 @@
-* <<<CP1202>>> INTERNET OF THINGS
+* <<<CP1202>>> INTERNET OF THINGS LAB
 :properties:
 :author: Dr.K.Madheswari, Dr. K R Sarath Chandran
 :date: 05 May 2022
