@@ -34,7 +34,7 @@ GSM –- Mobility management and call control –- GPRS –- GPRS State model --
 LTE -- Network architecture and interfaces -- Mobility management and power optimization -- LTE security architecture -- Interconnection with UMTS and GSM -- 4G networks and composite radio environment -- Protocol boosters -- Hybrid 4G wireless networks protocols.
 
 {{{unit}}}
-| Unit V | Software Defined Networks | 6 |
+| Unit V | Software Defined Networks | 9 |
 Introduction -- Centralized and distributed control and data planes -- Open flow -- Wire protocol -- Architecture -- Hybrid approaches - SDN controllers.
 
 
