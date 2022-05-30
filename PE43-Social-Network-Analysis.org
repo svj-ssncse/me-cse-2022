@@ -57,7 +57,10 @@ Bayesian probabilistic models -- Probabilistic relational models
 A learning based approach for real time emotion classification of
 tweets; A new linguistic approach to assess the opinion of users in
 social network environments; Explaining scientific and technical
-emergence forecasting; Social network analysis for biometric template
+emergence forecasting; Recommendation Systems.
+
+
+Social network analysis for biometric template
 protection
 
 \hfill *Total:45*
@@ -92,3 +95,4 @@ After the completion of this course, students will be able to:
 7. Ajith Abraham, Aboul Ella Hassanien, Vaclav Snasel, ``Computational
    Social Network Analysis: Trends, Tools and Research Advances'',
    Springer, 2012
+8. Safia Kanwal;Sidra Nawaz;Muhammad Kamran Malik;Zubair Nawaz, ``A Review of Text-Based Recommendation Systems'',IEEE, 2021.
