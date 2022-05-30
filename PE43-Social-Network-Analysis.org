@@ -92,4 +92,3 @@ After the completion of this course, students will be able to:
 8. Ajith Abraham, Aboul Ella Hassanien, Vaclav Snasel, ``Computational
    Social Network Analysis: Trends, Tools and Research Advances'',
    Springer, 2012
-8. 
