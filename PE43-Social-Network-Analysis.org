@@ -59,10 +59,6 @@ tweets; A new linguistic approach to assess the opinion of users in
 social network environments; Explaining scientific and technical
 emergence forecasting; Recommendation Systems.
 
-
-Social network analysis for biometric template
-protection
-
 \hfill *Total:45*
 
 ** Course Outcomes
