@@ -87,12 +87,13 @@ After the completion of this course, students will be able to:
 4. Przemyslaw Kazienko, Nitesh Chawla,``Applications of Social Media
    and Social Network Analysis'', Springer,2015
    and Social Network Analysis'', Springer,2015 (Unit 5)
-5. Giles, Mark Smith, John Yen, ``Advances in Social Network Mining
+5. Safia Kanwal;Sidra Nawaz;Muhammad Kamran Malik;Zubair Nawaz, ``A Review of Text-Based Recommendation Systems'',IEEE, 2021. (Unit 5)
+6. Giles, Mark Smith, John Yen, ``Advances in Social Network Mining
    and Analysis'', Springer, 2010.
-6. Guandong Xu , Yanchun Zhang and Lin Li, ``Web Mining and Social
+7. Guandong Xu , Yanchun Zhang and Lin Li, ``Web Mining and Social
    Networking – Techniques and applications'', Springer, 1st edition,
    2012
-7. Ajith Abraham, Aboul Ella Hassanien, Vaclav Snasel, ``Computational
+8. Ajith Abraham, Aboul Ella Hassanien, Vaclav Snasel, ``Computational
    Social Network Analysis: Trends, Tools and Research Advances'',
    Springer, 2012
-8. Safia Kanwal;Sidra Nawaz;Muhammad Kamran Malik;Zubair Nawaz, ``A Review of Text-Based Recommendation Systems'',IEEE, 2021.
+8. 
